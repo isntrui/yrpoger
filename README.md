@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8bca29dce3dc4526a1c79f81acbf59c8)](https://app.codacy.com/gh/isntrui/yrpoger/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
